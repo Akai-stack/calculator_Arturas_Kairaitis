@@ -1,7 +1,7 @@
 
 #  Calculator Package
 
-#### Package helps to perform generic arithmetical operations as well resets memomry and has operation to take (n)root.
+#### Package helps to perform generic arithmetical operations as well resets memory and has operation to take (n)root.
 
 *** 
 
