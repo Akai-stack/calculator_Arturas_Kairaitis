@@ -45,7 +45,7 @@ Create a virtual environment and install the package from TestPyPI:
 once installed import the package:
 
 ```bash
-from src.calculator_Arturas_Kairaitis import calculator
+from calculator_Arturas_Kairaitis import calculator
 ```
 
 ## Usage once Installed
